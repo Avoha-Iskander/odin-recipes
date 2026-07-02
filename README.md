@@ -1,0 +1,1 @@
+Ce code a pour objet la creation d'un site internet de recette afin de mettre en pratique tout ce que j'ai appris a propos du langage HTML.
